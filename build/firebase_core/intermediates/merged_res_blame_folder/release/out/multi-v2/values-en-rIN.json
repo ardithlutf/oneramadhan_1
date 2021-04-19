@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ardithlutf/AndroidStudioProjects/ardith/oneramadhan/build/firebase_core/intermediates/res/merged/release/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/home/ardithlutf/.gradle/caches/transforms-2/files-2.1/18dee3339835e222020ca8bc0e21b7b1/core-1.1.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ardithlutf/AndroidStudioProjects/ardith/oneramadhan/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/home/ardithlutf/.gradle/caches/transforms-2/files-2.1/18dee3339835e222020ca8bc0e21b7b1/core-1.1.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

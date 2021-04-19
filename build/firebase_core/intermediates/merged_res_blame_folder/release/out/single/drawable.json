@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ardithlutf/AndroidStudioProjects/ardith/oneramadhan/build/firebase_core/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/ardithlutf/.gradle/caches/transforms-2/files-2.1/18dee3339835e222020ca8bc0e21b7b1/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ardithlutf/AndroidStudioProjects/ardith/oneramadhan/build/firebase_core/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/ardithlutf/.gradle/caches/transforms-2/files-2.1/18dee3339835e222020ca8bc0e21b7b1/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ardithlutf/AndroidStudioProjects/ardith/oneramadhan/build/firebase_core/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/ardithlutf/.gradle/caches/transforms-2/files-2.1/18dee3339835e222020ca8bc0e21b7b1/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ardithlutf/AndroidStudioProjects/ardith/oneramadhan/build/firebase_core/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/ardithlutf/.gradle/caches/transforms-2/files-2.1/18dee3339835e222020ca8bc0e21b7b1/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]

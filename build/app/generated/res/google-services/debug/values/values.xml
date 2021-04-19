@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">9211912579-hleklj84qh4glr757rbuvreadci1vmec.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">9211912579</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLocrCxSu1sTdEPQoLnPDRLXEH5olaU0c</string>
+    <string name="google_app_id" translatable="false">1:9211912579:android:fe4f6ac6ea25b5d80ad6b6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLocrCxSu1sTdEPQoLnPDRLXEH5olaU0c</string>
+    <string name="google_storage_bucket" translatable="false">one-ramadhan.appspot.com</string>
+    <string name="project_id" translatable="false">one-ramadhan</string>
+</resources>

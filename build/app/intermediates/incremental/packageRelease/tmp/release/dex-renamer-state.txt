@@ -1,0 +1,4 @@
+#Sat Mar 27 09:42:19 WIB 2021
+base.0=/home/ardithlutf/AndroidStudioProjects/ardith/oneramadhan/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
