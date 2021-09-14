@@ -1,0 +1,19 @@
+# Automatically generated on 2021-09-14 UTC from https://codemagic.io/app/613ec6832de2a40d798ba48b/settings
+# Note that this configuration is not an exact match to UI settings. Review and adjust as necessary.
+
+workflows:
+  default-workflow:
+    name: Default Workflow
+    max_build_duration: 60
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: 1.11.2
+    scripts:
+      - flutter packages pub get
+    artifacts:
+      - flutter_drive.log
+    publishing:
+      email:
+        recipients:
+          - ardith.lutfiawan@gmail.com
